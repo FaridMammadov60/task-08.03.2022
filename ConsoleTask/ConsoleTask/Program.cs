@@ -8,8 +8,9 @@ namespace ConsoleTask
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding =Encoding.UTF8;
-            Console.InputEncoding =Encoding.UTF8;
+            Console.OutputEncoding =Encoding.Unicode;
+            Console.InputEncoding =Encoding.Unicode;
+
         L2:
             try
             {
@@ -25,22 +26,22 @@ namespace ConsoleTask
                     case 1:
                     case 2:
                     case 12:
-                        Console.WriteLine("Qış");
+                        Console.WriteLine("Qış fəsli");
                         break;
                     case 3:
                     case 4:
                     case 5:
-                        Console.WriteLine("Yaz");
+                        Console.WriteLine("Yaz fəsli");
                         break;
                     case 6:
                     case 7:
                     case 8:
-                        Console.WriteLine("Yay");
+                        Console.WriteLine("Yay fəsli");
                         break;
                     case 9:
                     case 10:
                     case 11:
-                        Console.WriteLine("Payız");
+                        Console.WriteLine("Payız fəsli");
                         break;
                 }
 

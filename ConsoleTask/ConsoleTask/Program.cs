@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Text;
+
 
 namespace ConsoleTask
 {
@@ -6,7 +8,8 @@ namespace ConsoleTask
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.OutputEncoding =Encoding.UTF8;
+            Console.InputEncoding =Encoding.UTF8;
         L2:
             try
             {

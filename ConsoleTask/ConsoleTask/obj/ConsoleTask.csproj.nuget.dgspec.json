@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\farid\\Desktop\\P322\\Code\\08.03.2022task\\ConsoleTask\\ConsoleTask\\ConsoleTask.csproj": {}
+    "C:\\Users\\farid\\Desktop\\New folder\\task-08.03.2022\\ConsoleTask\\ConsoleTask\\ConsoleTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\farid\\Desktop\\P322\\Code\\08.03.2022task\\ConsoleTask\\ConsoleTask\\ConsoleTask.csproj": {
+    "C:\\Users\\farid\\Desktop\\New folder\\task-08.03.2022\\ConsoleTask\\ConsoleTask\\ConsoleTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\farid\\Desktop\\P322\\Code\\08.03.2022task\\ConsoleTask\\ConsoleTask\\ConsoleTask.csproj",
+        "projectUniqueName": "C:\\Users\\farid\\Desktop\\New folder\\task-08.03.2022\\ConsoleTask\\ConsoleTask\\ConsoleTask.csproj",
         "projectName": "ConsoleTask",
-        "projectPath": "C:\\Users\\farid\\Desktop\\P322\\Code\\08.03.2022task\\ConsoleTask\\ConsoleTask\\ConsoleTask.csproj",
+        "projectPath": "C:\\Users\\farid\\Desktop\\New folder\\task-08.03.2022\\ConsoleTask\\ConsoleTask\\ConsoleTask.csproj",
         "packagesPath": "C:\\Users\\farid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\farid\\Desktop\\P322\\Code\\08.03.2022task\\ConsoleTask\\ConsoleTask\\obj\\",
+        "outputPath": "C:\\Users\\farid\\Desktop\\New folder\\task-08.03.2022\\ConsoleTask\\ConsoleTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

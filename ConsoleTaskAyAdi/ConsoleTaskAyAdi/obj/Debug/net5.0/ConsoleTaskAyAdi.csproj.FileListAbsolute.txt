@@ -1,0 +1,16 @@
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\bin\Debug\net5.0\ConsoleTaskAyAdi.exe
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\bin\Debug\net5.0\ConsoleTaskAyAdi.deps.json
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\bin\Debug\net5.0\ConsoleTaskAyAdi.runtimeconfig.json
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\bin\Debug\net5.0\ConsoleTaskAyAdi.runtimeconfig.dev.json
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\bin\Debug\net5.0\ConsoleTaskAyAdi.dll
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\bin\Debug\net5.0\ConsoleTaskAyAdi.pdb
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\obj\Debug\net5.0\ConsoleTaskAyAdi.csproj.AssemblyReference.cache
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\obj\Debug\net5.0\ConsoleTaskAyAdi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\obj\Debug\net5.0\ConsoleTaskAyAdi.AssemblyInfoInputs.cache
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\obj\Debug\net5.0\ConsoleTaskAyAdi.AssemblyInfo.cs
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\obj\Debug\net5.0\ConsoleTaskAyAdi.csproj.CoreCompileInputs.cache
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\obj\Debug\net5.0\ConsoleTaskAyAdi.dll
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\obj\Debug\net5.0\refint\ConsoleTaskAyAdi.dll
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\obj\Debug\net5.0\ConsoleTaskAyAdi.pdb
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\obj\Debug\net5.0\ConsoleTaskAyAdi.genruntimeconfig.cache
+C:\Users\farid\Desktop\New folder\task-08.03.2022\ConsoleTaskAyAdi\ConsoleTaskAyAdi\obj\Debug\net5.0\ref\ConsoleTaskAyAdi.dll
